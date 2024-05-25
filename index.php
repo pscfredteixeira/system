@@ -1,4 +1,4 @@
-<?php
+/* <?php
 require 'vendor/autoload.php';
 
 use Google\Client;
@@ -44,3 +44,5 @@ $updateResponse = $service->spreadsheets_values->update($spreadsheetId, $range, 
 
 echo "Arquivo atualizado com sucesso!<br>";
 ?>
+*/
+Hello
